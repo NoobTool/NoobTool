@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Glad you could find some time and visit my GitHub. I am an AI enthusiast contributing my skills to empower applications using machine and deep learning. *Whispers* I find joy developing web-applications as well.
+
+![](https://komarev.com/ghpvc/?username=NoobTool&style=for-the-badge&color=orange)
+
+
 <!--
 **NoobTool/NoobTool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
